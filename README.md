@@ -1,4 +1,4 @@
-# Codes-for-Thesis
+# Understanding QA generation: Extracting Parametric and Contextual Knowledge with CQA for Low Resource Bangla Language
 
 This repository contains the code used for various stages of our thesis work, including model inference, answer extraction, and output evaluation.
 
