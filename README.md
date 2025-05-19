@@ -1,5 +1,7 @@
 # Understanding QA Generation: Extracting Parametric and Contextual Knowledge with CQA for Low-Resource Bangla Language
 
+![Cover Image](coverimage.png)
+
 This repository contains the codebase for our research on question answering (QA) in low-resource Bangla. The code is organized into multiple components, each corresponding to a stage in our pipeline: model inference, answer extraction, and output evaluation.
 
 ## Repository Structure
@@ -33,5 +35,3 @@ This module facilitates the execution of various language models over our curate
 Each folder includes detailed scripts, configurations, and usage instructions. We encourage readers and reviewers to explore individual modules for a deeper understanding of the methodology and implementation.
 
 ---
-
-
