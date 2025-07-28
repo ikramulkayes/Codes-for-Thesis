@@ -21,6 +21,8 @@ This module facilitates the execution of various language models over our curate
 
   * Scripts in this section are responsible for parsing model outputs to extract target parametric and contextual answers.
   * These extractions are aligned with ground truth labels for subsequent evaluation.
+  * But for Mistral our Evaluation script was more advanced, so answer extraction was handled there.
+
 
 ### 3. Output Evaluation
 
