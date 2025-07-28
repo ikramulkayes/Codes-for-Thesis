@@ -12,7 +12,7 @@ This module facilitates the execution of various language models over our curate
 
 * **Folder:** `Notebooks for running the models`
 
-  * Contains Jupyter notebooks and scripts for running inference using different LLMs like DeepSeek 32B, QwQ 32B, Llama 3.3 70B.
+  * Contains Jupyter notebooks and scripts for running inference using different LLMs like Mistral 3 Small 24B, DeepSeek 32B, QwQ 32B, Llama 3.3 70B.
   * Includes configuration files and setup instructions for each model used.
 
 ### 2. Answer Extraction
@@ -29,6 +29,12 @@ This module facilitates the execution of various language models over our curate
   * This folder contains scripts that utilize the Gemini model for automated evaluation of generated outputs.
   * **Extractor Script:** Compares generated answers with target answers on a granular level.
   * **Evaluator Script:** Uses the results from the Extractor and computes an average similarity score for final evaluation.
+
+* **Folder:** `GPT Evaluation`
+
+  * This folder contains scripts that utilize GPT models for automated evaluation of generated outputs.
+  * **Evaluation Scripts:** Scripts for evaluating model outputs using GPT-based assessment methods.
+  * **Score Calculation:** Tools for calculating mean scores and aggregating evaluation metrics across different models.
 
 ## Getting Started
 
